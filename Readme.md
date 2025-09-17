@@ -1,7 +1,7 @@
 # Stochastic Signal Processing Course
 
 ## Overview
-This course covers probabilistic models for stochastic signals and systems, focusing on analysis, processing, and estimation techniques. Builds on deterministic signals by addressing noise and uncertainty using probability theory and statistics.
+This course covers probabilistic models for stochastic signals and systems, focusing on analysis, processing, and estimation techniques. Builds on deterministic signals by addressing noise and uncertainty using probability theory and statistics. **Needs 3 of 4 assignments to pass**
 
 ## Course Learning Outcomes (CLOs)
 - **CLO1**: Analyze general mathematical models for characterizing random experiments (and signals) and extract useful information through those models.
